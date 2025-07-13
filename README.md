@@ -38,7 +38,7 @@ It is included in the rest of the PHP files so that each script can execute its 
 6. Place the project folder inside `htdocs` (e.g., `C:\xampp\htdocs\Simple-php-Database-App`)
 7. Open your browser and go to: http://localhost/Simple-php-Database-App/index.php
 8. The site will appear as follows:
-* Above is the connection bee message
+* Above is the connection success message
 * A box to enter the employee's name and age with the Submit button next to it.
 * A table containing the ID, name, age - entered from the previous boxes - and status with a toggle button to toggle 0 to 1 and vice versa
 
