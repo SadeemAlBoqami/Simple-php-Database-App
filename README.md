@@ -6,10 +6,10 @@ Connect a MySQL database with PHP and display it in a web page, with the ability
 It is included in the rest of the PHP files so that each script can execute its queries on the same connection.
 
 2. [insert.php](Simple-php-Database-App/blob/main/insert.php): This script receives the data entered from the HTML form (name and age) and saves it to the database within the employees table where:
-	- POST_$ is used to receive the data.
-	- Checks that the data is not null.
-	- Executes SQL INSERT queries to save the data.
-	- Redirects the user to index.php after input.
+   - POST_$ is used to receive the data.
+   - Checks that the data is not null.
+   - Executes SQL INSERT queries to save the data.
+   - Redirects the user to index.php after input.
 
 3. [index.php](Simple-php-Database-App/blob/main/index.php):
    The main interface of the project where you view the model, view the data, and associate the toggle, through:
