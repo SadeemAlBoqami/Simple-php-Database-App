@@ -35,8 +35,8 @@ It is included in the rest of the PHP files so that each script can execute its 
    - `name` VARCHAR(255)  
    - `age` INT  
    - `status` TINYINT (default 0)
-6. Place the project folder inside `htdocs` (e.g., `C:\xampp\htdocs\Simple-php-Database-App`)
-7. Open your browser and go to: http://localhost/Simple-php-Database-App/index.php
+6. Place the project folder inside `htdocs` (e.g., `C:\xampp\htdocs\Information`)
+7. Open your browser and go to: http://localhost/Information/
 8. The site will appear as follows:
 * Above is the connection success message
 * A box to enter the employee's name and age with the Submit button next to it.
