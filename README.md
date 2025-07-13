@@ -41,7 +41,7 @@ It is included in the rest of the PHP files so that each script can execute its 
 * Above is the connection success message
 * A box to enter the employee's name and age with the Submit button next to it.
 * A table containing the ID, name, age - entered from the previous boxes - and status with a toggle button to toggle 0 to 1 and vice versa
-* You can see the results of the site and what it looks like from [here](Simple-php-Database-App/tree/main/Results%20Screenshots))
+* You can see the results of the site and what it looks like from [here](Simple-php-Database-App/tree/main/Results%20Screenshots)
 
 
  
